@@ -74,7 +74,7 @@ export default function Footer() {
               {[
                 { Icon: Mail, href: `mailto:${resume.email}`, label: "Email" },
                 { Icon: LinkedinIcon, href: resume.linkedin, label: "LinkedIn" },
-                { Icon: GithubIcon, href: "https://github.com", label: "GitHub" },
+                { Icon: GithubIcon, href: resume.github || "https://github.com/heeya2704", label: "GitHub" },
                 { Icon: FileText, href: "/Heeya_Dadhalwala.pdf", label: "Resume", download: "Heeya_Dadhalwala_Resume.pdf" },
               ].map(({ Icon, href, label, download }) => (
                 <a

@@ -225,7 +225,7 @@ export default function Projects() {
                     {/* Links */}
                     <div style={{ display: "flex", gap: "0.75rem", paddingTop: "0.75rem", borderTop: "1px solid var(--border)" }}>
                       <a
-                        href="https://github.com"
+                        href={p.github || resume.github || "https://github.com/heeya2704"}
                         target="_blank"
                         rel="noreferrer"
                         data-cursor-hover

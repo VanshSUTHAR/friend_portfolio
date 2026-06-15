@@ -5,6 +5,7 @@ export const resume = {
   phone: "+91-7874511331",
   location: "Ahmedabad, Gujarat, India",
   linkedin: "https://www.linkedin.com/in/heeya-m-dadhalwala-339937273/",
+  github: "https://github.com/heeya2704",
   overview:
     "Computer Science undergraduate with hands-on experience across data analytics and business intelligence. Proficient in SQL, Python, and Power BI, with expertise in dashboards, data handling, reporting, and application development. Strong analytical mindset with the ability to learn quickly and adapt to different technical roles.",
 
@@ -63,24 +64,28 @@ export const resume = {
       title: "Government-Facing Analytics Dashboard",
       desc: "Developed interactive Power BI dashboards for presentation to government stakeholders. Led UI design, DAX measures, filters, and interactive visuals focused on clear, decision-oriented reporting.",
       tools: ["Power BI", "Data Modeling", "DAX", "Dashboard Design"],
+      github: "https://github.com/heeya2704/Education_NEP_Project",
     },
     {
       num: "02",
       title: "Pharma Analytics — Drug Production & QC",
       desc: "Analyzed pharmaceutical production, quality control, and inventory data. Built multi-tool dashboards to track defect rates, batch performance, and production timelines across the supply chain.",
       tools: ["Excel", "Power BI", "Qlik Sense"],
+      github: "https://github.com/heeya2704/Pharmaceutical_project",
     },
     {
       num: "03",
       title: "J.A.R.V.I.S — AI Voice Assistant",
       desc: "Built a Python-based AI assistant with voice command functionality, implementing speech recognition, text-to-speech, and automation logic for hands-free task execution.",
       tools: ["Python", "Speech Recognition", "Text-to-Speech", "Automation"],
+      github: "https://github.com/heeya2704/JARVIS-AI-Assistant",
     },
     {
       num: "04",
       title: "Data-Driven Blogging Platform",
       desc: "Developed a full-stack Django + React blogging platform with custom database schemas and REST APIs. Used SQL for trend and category-based content analysis.",
       tools: ["Python", "Django", "React.js", "REST APIs", "SQL"],
+      github: "https://github.com/heeya2704/BloggingPlatform",
     },
   ],
 

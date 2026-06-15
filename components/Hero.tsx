@@ -320,7 +320,7 @@ export default function Hero() {
                 <div style={{ width: 28, height: 1, background: "var(--border)" }} />
                 {[
                   { Icon: LinkedinIcon, href: resume.linkedin, label: "LinkedIn" },
-                  { Icon: GithubIcon, href: "https://github.com", label: "GitHub" },
+                  { Icon: GithubIcon, href: resume.github || "https://github.com/heeya2704", label: "GitHub" },
                 ].map(({ Icon, href, label }) => (
                   <a
                     key={label}
