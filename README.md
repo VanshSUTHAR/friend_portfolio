@@ -1,6 +1,6 @@
-# 📊 Heeya Dadhalwala — Data Analytics & Engineering Portfolio
+# 📊 Riya Saha — Data Analytics & Engineering Portfolio
 
-Welcome to the repository for **Heeya Dadhalwala's Portfolio Website**—a premium, state-of-the-art developer and data analytics showcase built to capture the essence of modern product design.
+Welcome to the repository for **Riya shah's Portfolio Website**—a premium, state-of-the-art developer and data analytics showcase built to capture the essence of modern product design.
 
 This portfolio is custom-engineered to highlight a dual background in **Computer Science Engineering** and **Data Analytics / Business Intelligence (BI)**.
 

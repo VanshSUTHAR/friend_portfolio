@@ -1,11 +1,11 @@
 export const resume = {
-  name: "Heeya Dadhalwala",
+  name: "Riya shah",
   title: "Computer Science Undergraduate | Data Analytics",
-  email: "heeyadadhalwala@gmail.com",
+  email: "riyashah@gmail.com",
   phone: "+91-7874511331",
   location: "Ahmedabad, Gujarat, India",
-  linkedin: "https://www.linkedin.com/in/heeya-m-dadhalwala-339937273/",
-  github: "https://github.com/heeya2704",
+  linkedin: "https://www.linkedin.com/in/riya-shah-339937273/",
+  github: "https://github.com/riyashah2704",
   overview:
     "Computer Science undergraduate with hands-on experience across data analytics and business intelligence. Proficient in SQL, Python, and Power BI, with expertise in dashboards, data handling, reporting, and application development. Strong analytical mindset with the ability to learn quickly and adapt to different technical roles.",
 

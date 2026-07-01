@@ -180,7 +180,7 @@ export default function Footer() {
           gap: "0.75rem",
         }}>
           <p style={{ fontFamily: "var(--font-mono)", fontSize: "0.72rem", color: "var(--text-muted)" }}>
-            © {new Date().getFullYear()} Heeya Dadhalwala. All rights reserved.
+            © {new Date().getFullYear()} Riya shah. All rights reserved.
           </p>
           <p style={{ fontFamily: "var(--font-mono)", fontSize: "0.72rem", color: "var(--text-muted)", display: "flex", alignItems: "center", gap: "0.3rem" }}>
             Built with <Heart size={12} color="var(--accent)" fill="var(--accent)" /> Next.js &amp; Framer Motion
